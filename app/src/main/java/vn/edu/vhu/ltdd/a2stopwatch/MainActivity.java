@@ -311,3 +311,4 @@ public class MainActivity extends AppCompatActivity {
         Log.d(TAG, "onRestoreInstanceState – được gọi sau onStart()");
     }
 }
+// Commit update: Hoan thien module A2 Stopwatch va cac bai nang cao NC1, NC2, NC3, NC4
